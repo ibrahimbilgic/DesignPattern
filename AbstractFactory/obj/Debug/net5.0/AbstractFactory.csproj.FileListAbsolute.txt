@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/obj/Debug/net5.0/AbstractFactory.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/obj/Debug/net5.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/obj/Debug/net5.0/AbstractFactory.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/obj/Debug/net5.0/AbstractFactory.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/obj/Debug/net5.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/bin/Debug/net5.0/AbstractFactory
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/bin/Debug/net5.0/AbstractFactory.deps.json
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/bin/Debug/net5.0/AbstractFactory.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/bin/Debug/net5.0/AbstractFactory.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/bin/Debug/net5.0/AbstractFactory.dll
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/bin/Debug/net5.0/ref/AbstractFactory.dll
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/bin/Debug/net5.0/AbstractFactory.pdb
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/obj/Debug/net5.0/AbstractFactory.dll
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/obj/Debug/net5.0/ref/AbstractFactory.dll
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/obj/Debug/net5.0/AbstractFactory.pdb
+/home/blgc/Masaüstü/C#Projects/DesignPattern/AbstractFactory/obj/Debug/net5.0/AbstractFactory.genruntimeconfig.cache
