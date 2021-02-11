@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/bin/Debug/net5.0/FactoryMethod
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/bin/Debug/net5.0/FactoryMethod.deps.json
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/bin/Debug/net5.0/FactoryMethod.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/bin/Debug/net5.0/FactoryMethod.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/bin/Debug/net5.0/FactoryMethod.dll
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/bin/Debug/net5.0/ref/FactoryMethod.dll
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/bin/Debug/net5.0/FactoryMethod.pdb
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/obj/Debug/net5.0/FactoryMethod.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/obj/Debug/net5.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/obj/Debug/net5.0/FactoryMethod.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/obj/Debug/net5.0/FactoryMethod.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/obj/Debug/net5.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/obj/Debug/net5.0/FactoryMethod.dll
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/obj/Debug/net5.0/ref/FactoryMethod.dll
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/obj/Debug/net5.0/FactoryMethod.pdb
+/home/blgc/Masaüstü/DesignPattern/FactoryMethod/obj/Debug/net5.0/FactoryMethod.genruntimeconfig.cache

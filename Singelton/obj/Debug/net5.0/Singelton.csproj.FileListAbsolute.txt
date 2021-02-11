@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/Singelton/obj/Debug/net5.0/Singelton.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/Singelton/obj/Debug/net5.0/Singelton.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/Singelton/obj/Debug/net5.0/Singelton.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Singelton/obj/Debug/net5.0/Singelton.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/Singelton/obj/Debug/net5.0/Singelton.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Singelton/bin/Debug/net5.0/Singelton
+/home/blgc/Masaüstü/DesignPattern/Singelton/bin/Debug/net5.0/Singelton.deps.json
+/home/blgc/Masaüstü/DesignPattern/Singelton/bin/Debug/net5.0/Singelton.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/Singelton/bin/Debug/net5.0/Singelton.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/Singelton/bin/Debug/net5.0/Singelton.dll
+/home/blgc/Masaüstü/DesignPattern/Singelton/bin/Debug/net5.0/ref/Singelton.dll
+/home/blgc/Masaüstü/DesignPattern/Singelton/bin/Debug/net5.0/Singelton.pdb
+/home/blgc/Masaüstü/DesignPattern/Singelton/obj/Debug/net5.0/Singelton.dll
+/home/blgc/Masaüstü/DesignPattern/Singelton/obj/Debug/net5.0/ref/Singelton.dll
+/home/blgc/Masaüstü/DesignPattern/Singelton/obj/Debug/net5.0/Singelton.pdb
+/home/blgc/Masaüstü/DesignPattern/Singelton/obj/Debug/net5.0/Singelton.genruntimeconfig.cache
