@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/Composite/obj/Debug/net5.0/Composite.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/Composite/obj/Debug/net5.0/Composite.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/Composite/obj/Debug/net5.0/Composite.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Composite/obj/Debug/net5.0/Composite.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/Composite/obj/Debug/net5.0/Composite.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Composite/bin/Debug/net5.0/Composite
+/home/blgc/Masaüstü/DesignPattern/Composite/bin/Debug/net5.0/Composite.deps.json
+/home/blgc/Masaüstü/DesignPattern/Composite/bin/Debug/net5.0/Composite.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/Composite/bin/Debug/net5.0/Composite.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/Composite/bin/Debug/net5.0/Composite.dll
+/home/blgc/Masaüstü/DesignPattern/Composite/bin/Debug/net5.0/ref/Composite.dll
+/home/blgc/Masaüstü/DesignPattern/Composite/bin/Debug/net5.0/Composite.pdb
+/home/blgc/Masaüstü/DesignPattern/Composite/obj/Debug/net5.0/Composite.dll
+/home/blgc/Masaüstü/DesignPattern/Composite/obj/Debug/net5.0/ref/Composite.dll
+/home/blgc/Masaüstü/DesignPattern/Composite/obj/Debug/net5.0/Composite.pdb
+/home/blgc/Masaüstü/DesignPattern/Composite/obj/Debug/net5.0/Composite.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/Decorator/obj/Debug/net5.0/Decorator.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/Decorator/obj/Debug/net5.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/Decorator/obj/Debug/net5.0/Decorator.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Decorator/obj/Debug/net5.0/Decorator.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/Decorator/obj/Debug/net5.0/Decorator.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Decorator/bin/Debug/net5.0/Decorator
+/home/blgc/Masaüstü/DesignPattern/Decorator/bin/Debug/net5.0/Decorator.deps.json
+/home/blgc/Masaüstü/DesignPattern/Decorator/bin/Debug/net5.0/Decorator.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/Decorator/bin/Debug/net5.0/Decorator.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/Decorator/bin/Debug/net5.0/Decorator.dll
+/home/blgc/Masaüstü/DesignPattern/Decorator/bin/Debug/net5.0/ref/Decorator.dll
+/home/blgc/Masaüstü/DesignPattern/Decorator/bin/Debug/net5.0/Decorator.pdb
+/home/blgc/Masaüstü/DesignPattern/Decorator/obj/Debug/net5.0/Decorator.dll
+/home/blgc/Masaüstü/DesignPattern/Decorator/obj/Debug/net5.0/ref/Decorator.dll
+/home/blgc/Masaüstü/DesignPattern/Decorator/obj/Debug/net5.0/Decorator.pdb
+/home/blgc/Masaüstü/DesignPattern/Decorator/obj/Debug/net5.0/Decorator.genruntimeconfig.cache
