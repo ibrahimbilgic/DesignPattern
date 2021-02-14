@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/Facade/obj/Debug/net5.0/Facade.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/Facade/obj/Debug/net5.0/Facade.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/Facade/obj/Debug/net5.0/Facade.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Facade/obj/Debug/net5.0/Facade.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/Facade/obj/Debug/net5.0/Facade.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Facade/bin/Debug/net5.0/Facade
+/home/blgc/Masaüstü/DesignPattern/Facade/bin/Debug/net5.0/Facade.deps.json
+/home/blgc/Masaüstü/DesignPattern/Facade/bin/Debug/net5.0/Facade.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/Facade/bin/Debug/net5.0/Facade.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/Facade/bin/Debug/net5.0/Facade.dll
+/home/blgc/Masaüstü/DesignPattern/Facade/bin/Debug/net5.0/ref/Facade.dll
+/home/blgc/Masaüstü/DesignPattern/Facade/bin/Debug/net5.0/Facade.pdb
+/home/blgc/Masaüstü/DesignPattern/Facade/obj/Debug/net5.0/Facade.dll
+/home/blgc/Masaüstü/DesignPattern/Facade/obj/Debug/net5.0/ref/Facade.dll
+/home/blgc/Masaüstü/DesignPattern/Facade/obj/Debug/net5.0/Facade.pdb
+/home/blgc/Masaüstü/DesignPattern/Facade/obj/Debug/net5.0/Facade.genruntimeconfig.cache

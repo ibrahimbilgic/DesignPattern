@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/Proxy/bin/Debug/net5.0/Proxy
+/home/blgc/Masaüstü/DesignPattern/Proxy/bin/Debug/net5.0/Proxy.deps.json
+/home/blgc/Masaüstü/DesignPattern/Proxy/bin/Debug/net5.0/Proxy.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/Proxy/bin/Debug/net5.0/Proxy.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/Proxy/bin/Debug/net5.0/Proxy.dll
+/home/blgc/Masaüstü/DesignPattern/Proxy/bin/Debug/net5.0/ref/Proxy.dll
+/home/blgc/Masaüstü/DesignPattern/Proxy/bin/Debug/net5.0/Proxy.pdb
+/home/blgc/Masaüstü/DesignPattern/Proxy/obj/Debug/net5.0/Proxy.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/Proxy/obj/Debug/net5.0/Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/Proxy/obj/Debug/net5.0/Proxy.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Proxy/obj/Debug/net5.0/Proxy.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/Proxy/obj/Debug/net5.0/Proxy.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Proxy/obj/Debug/net5.0/Proxy.dll
+/home/blgc/Masaüstü/DesignPattern/Proxy/obj/Debug/net5.0/ref/Proxy.dll
+/home/blgc/Masaüstü/DesignPattern/Proxy/obj/Debug/net5.0/Proxy.pdb
+/home/blgc/Masaüstü/DesignPattern/Proxy/obj/Debug/net5.0/Proxy.genruntimeconfig.cache

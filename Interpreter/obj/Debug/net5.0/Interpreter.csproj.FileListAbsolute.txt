@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/Interpreter/obj/Debug/net5.0/Interpreter.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/Interpreter/obj/Debug/net5.0/Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/Interpreter/obj/Debug/net5.0/Interpreter.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Interpreter/obj/Debug/net5.0/Interpreter.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/Interpreter/obj/Debug/net5.0/Interpreter.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Interpreter/bin/Debug/net5.0/Interpreter
+/home/blgc/Masaüstü/DesignPattern/Interpreter/bin/Debug/net5.0/Interpreter.deps.json
+/home/blgc/Masaüstü/DesignPattern/Interpreter/bin/Debug/net5.0/Interpreter.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/Interpreter/bin/Debug/net5.0/Interpreter.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/Interpreter/bin/Debug/net5.0/Interpreter.dll
+/home/blgc/Masaüstü/DesignPattern/Interpreter/bin/Debug/net5.0/ref/Interpreter.dll
+/home/blgc/Masaüstü/DesignPattern/Interpreter/bin/Debug/net5.0/Interpreter.pdb
+/home/blgc/Masaüstü/DesignPattern/Interpreter/obj/Debug/net5.0/Interpreter.dll
+/home/blgc/Masaüstü/DesignPattern/Interpreter/obj/Debug/net5.0/ref/Interpreter.dll
+/home/blgc/Masaüstü/DesignPattern/Interpreter/obj/Debug/net5.0/Interpreter.pdb
+/home/blgc/Masaüstü/DesignPattern/Interpreter/obj/Debug/net5.0/Interpreter.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/Flyweight/obj/Debug/net5.0/Flyweight.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/Flyweight/obj/Debug/net5.0/Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/Flyweight/obj/Debug/net5.0/Flyweight.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Flyweight/obj/Debug/net5.0/Flyweight.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/Flyweight/obj/Debug/net5.0/Flyweight.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Flyweight/bin/Debug/net5.0/Flyweight
+/home/blgc/Masaüstü/DesignPattern/Flyweight/bin/Debug/net5.0/Flyweight.deps.json
+/home/blgc/Masaüstü/DesignPattern/Flyweight/bin/Debug/net5.0/Flyweight.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/Flyweight/bin/Debug/net5.0/Flyweight.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/Flyweight/bin/Debug/net5.0/Flyweight.dll
+/home/blgc/Masaüstü/DesignPattern/Flyweight/bin/Debug/net5.0/ref/Flyweight.dll
+/home/blgc/Masaüstü/DesignPattern/Flyweight/bin/Debug/net5.0/Flyweight.pdb
+/home/blgc/Masaüstü/DesignPattern/Flyweight/obj/Debug/net5.0/Flyweight.dll
+/home/blgc/Masaüstü/DesignPattern/Flyweight/obj/Debug/net5.0/ref/Flyweight.dll
+/home/blgc/Masaüstü/DesignPattern/Flyweight/obj/Debug/net5.0/Flyweight.pdb
+/home/blgc/Masaüstü/DesignPattern/Flyweight/obj/Debug/net5.0/Flyweight.genruntimeconfig.cache

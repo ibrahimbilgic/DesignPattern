@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/Mediator/obj/Debug/net5.0/Mediator.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/Mediator/obj/Debug/net5.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/Mediator/obj/Debug/net5.0/Mediator.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Mediator/obj/Debug/net5.0/Mediator.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/Mediator/obj/Debug/net5.0/Mediator.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Mediator/bin/Debug/net5.0/Mediator
+/home/blgc/Masaüstü/DesignPattern/Mediator/bin/Debug/net5.0/Mediator.deps.json
+/home/blgc/Masaüstü/DesignPattern/Mediator/bin/Debug/net5.0/Mediator.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/Mediator/bin/Debug/net5.0/Mediator.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/Mediator/bin/Debug/net5.0/Mediator.dll
+/home/blgc/Masaüstü/DesignPattern/Mediator/bin/Debug/net5.0/ref/Mediator.dll
+/home/blgc/Masaüstü/DesignPattern/Mediator/bin/Debug/net5.0/Mediator.pdb
+/home/blgc/Masaüstü/DesignPattern/Mediator/obj/Debug/net5.0/Mediator.dll
+/home/blgc/Masaüstü/DesignPattern/Mediator/obj/Debug/net5.0/ref/Mediator.dll
+/home/blgc/Masaüstü/DesignPattern/Mediator/obj/Debug/net5.0/Mediator.pdb
+/home/blgc/Masaüstü/DesignPattern/Mediator/obj/Debug/net5.0/Mediator.genruntimeconfig.cache

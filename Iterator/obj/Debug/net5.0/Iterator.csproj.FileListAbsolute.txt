@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/Iterator/obj/Debug/net5.0/Iterator.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/Iterator/obj/Debug/net5.0/Iterator.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/Iterator/obj/Debug/net5.0/Iterator.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Iterator/obj/Debug/net5.0/Iterator.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/Iterator/obj/Debug/net5.0/Iterator.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Iterator/bin/Debug/net5.0/Iterator
+/home/blgc/Masaüstü/DesignPattern/Iterator/bin/Debug/net5.0/Iterator.deps.json
+/home/blgc/Masaüstü/DesignPattern/Iterator/bin/Debug/net5.0/Iterator.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/Iterator/bin/Debug/net5.0/Iterator.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/Iterator/bin/Debug/net5.0/Iterator.dll
+/home/blgc/Masaüstü/DesignPattern/Iterator/bin/Debug/net5.0/ref/Iterator.dll
+/home/blgc/Masaüstü/DesignPattern/Iterator/bin/Debug/net5.0/Iterator.pdb
+/home/blgc/Masaüstü/DesignPattern/Iterator/obj/Debug/net5.0/Iterator.dll
+/home/blgc/Masaüstü/DesignPattern/Iterator/obj/Debug/net5.0/ref/Iterator.dll
+/home/blgc/Masaüstü/DesignPattern/Iterator/obj/Debug/net5.0/Iterator.pdb
+/home/blgc/Masaüstü/DesignPattern/Iterator/obj/Debug/net5.0/Iterator.genruntimeconfig.cache

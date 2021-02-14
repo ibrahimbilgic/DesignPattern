@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/obj/Debug/net5.0/ChainofResponsibility.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/obj/Debug/net5.0/ChainofResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/obj/Debug/net5.0/ChainofResponsibility.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/obj/Debug/net5.0/ChainofResponsibility.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/obj/Debug/net5.0/ChainofResponsibility.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/bin/Debug/net5.0/ChainofResponsibility
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/bin/Debug/net5.0/ChainofResponsibility.deps.json
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/bin/Debug/net5.0/ChainofResponsibility.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/bin/Debug/net5.0/ChainofResponsibility.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/bin/Debug/net5.0/ChainofResponsibility.dll
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/bin/Debug/net5.0/ref/ChainofResponsibility.dll
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/bin/Debug/net5.0/ChainofResponsibility.pdb
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/obj/Debug/net5.0/ChainofResponsibility.dll
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/obj/Debug/net5.0/ref/ChainofResponsibility.dll
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/obj/Debug/net5.0/ChainofResponsibility.pdb
+/home/blgc/Masaüstü/DesignPattern/ChainofResponsibility/obj/Debug/net5.0/ChainofResponsibility.genruntimeconfig.cache
