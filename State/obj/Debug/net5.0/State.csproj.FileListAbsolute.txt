@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/State/obj/Debug/net5.0/State.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/State/obj/Debug/net5.0/State.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/State/obj/Debug/net5.0/State.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/State/obj/Debug/net5.0/State.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/State/obj/Debug/net5.0/State.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/State/bin/Debug/net5.0/State
+/home/blgc/Masaüstü/DesignPattern/State/bin/Debug/net5.0/State.deps.json
+/home/blgc/Masaüstü/DesignPattern/State/bin/Debug/net5.0/State.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/State/bin/Debug/net5.0/State.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/State/bin/Debug/net5.0/State.dll
+/home/blgc/Masaüstü/DesignPattern/State/bin/Debug/net5.0/ref/State.dll
+/home/blgc/Masaüstü/DesignPattern/State/bin/Debug/net5.0/State.pdb
+/home/blgc/Masaüstü/DesignPattern/State/obj/Debug/net5.0/State.dll
+/home/blgc/Masaüstü/DesignPattern/State/obj/Debug/net5.0/ref/State.dll
+/home/blgc/Masaüstü/DesignPattern/State/obj/Debug/net5.0/State.pdb
+/home/blgc/Masaüstü/DesignPattern/State/obj/Debug/net5.0/State.genruntimeconfig.cache

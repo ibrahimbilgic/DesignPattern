@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/Memento/obj/Debug/net5.0/Memento.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/Memento/obj/Debug/net5.0/Memento.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/Memento/obj/Debug/net5.0/Memento.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Memento/obj/Debug/net5.0/Memento.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/Memento/obj/Debug/net5.0/Memento.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Memento/bin/Debug/net5.0/Memento
+/home/blgc/Masaüstü/DesignPattern/Memento/bin/Debug/net5.0/Memento.deps.json
+/home/blgc/Masaüstü/DesignPattern/Memento/bin/Debug/net5.0/Memento.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/Memento/bin/Debug/net5.0/Memento.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/Memento/bin/Debug/net5.0/Memento.dll
+/home/blgc/Masaüstü/DesignPattern/Memento/bin/Debug/net5.0/ref/Memento.dll
+/home/blgc/Masaüstü/DesignPattern/Memento/bin/Debug/net5.0/Memento.pdb
+/home/blgc/Masaüstü/DesignPattern/Memento/obj/Debug/net5.0/Memento.dll
+/home/blgc/Masaüstü/DesignPattern/Memento/obj/Debug/net5.0/ref/Memento.dll
+/home/blgc/Masaüstü/DesignPattern/Memento/obj/Debug/net5.0/Memento.pdb
+/home/blgc/Masaüstü/DesignPattern/Memento/obj/Debug/net5.0/Memento.genruntimeconfig.cache

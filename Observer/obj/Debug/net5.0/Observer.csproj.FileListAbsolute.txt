@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/Observer/obj/Debug/net5.0/Observer.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/Observer/obj/Debug/net5.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/Observer/obj/Debug/net5.0/Observer.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Observer/obj/Debug/net5.0/Observer.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/Observer/obj/Debug/net5.0/Observer.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Observer/bin/Debug/net5.0/Observer
+/home/blgc/Masaüstü/DesignPattern/Observer/bin/Debug/net5.0/Observer.deps.json
+/home/blgc/Masaüstü/DesignPattern/Observer/bin/Debug/net5.0/Observer.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/Observer/bin/Debug/net5.0/Observer.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/Observer/bin/Debug/net5.0/Observer.dll
+/home/blgc/Masaüstü/DesignPattern/Observer/bin/Debug/net5.0/ref/Observer.dll
+/home/blgc/Masaüstü/DesignPattern/Observer/bin/Debug/net5.0/Observer.pdb
+/home/blgc/Masaüstü/DesignPattern/Observer/obj/Debug/net5.0/Observer.dll
+/home/blgc/Masaüstü/DesignPattern/Observer/obj/Debug/net5.0/ref/Observer.dll
+/home/blgc/Masaüstü/DesignPattern/Observer/obj/Debug/net5.0/Observer.pdb
+/home/blgc/Masaüstü/DesignPattern/Observer/obj/Debug/net5.0/Observer.genruntimeconfig.cache
