@@ -1,0 +1,5 @@
+/home/blgc/Masaüstü/DesignPattern/Template/obj/Debug/net5.0/Template.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/Template/obj/Debug/net5.0/Template.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/Template/obj/Debug/net5.0/Template.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Template/obj/Debug/net5.0/Template.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/Template/obj/Debug/net5.0/Template.csproj.CoreCompileInputs.cache

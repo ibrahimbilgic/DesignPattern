@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/Visitor/obj/Debug/net5.0/Visitor.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/Visitor/obj/Debug/net5.0/Visitor.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/Visitor/obj/Debug/net5.0/Visitor.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Visitor/obj/Debug/net5.0/Visitor.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/Visitor/obj/Debug/net5.0/Visitor.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Visitor/bin/Debug/net5.0/Visitor
+/home/blgc/Masaüstü/DesignPattern/Visitor/bin/Debug/net5.0/Visitor.deps.json
+/home/blgc/Masaüstü/DesignPattern/Visitor/bin/Debug/net5.0/Visitor.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/Visitor/bin/Debug/net5.0/Visitor.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/Visitor/bin/Debug/net5.0/Visitor.dll
+/home/blgc/Masaüstü/DesignPattern/Visitor/bin/Debug/net5.0/ref/Visitor.dll
+/home/blgc/Masaüstü/DesignPattern/Visitor/bin/Debug/net5.0/Visitor.pdb
+/home/blgc/Masaüstü/DesignPattern/Visitor/obj/Debug/net5.0/Visitor.dll
+/home/blgc/Masaüstü/DesignPattern/Visitor/obj/Debug/net5.0/ref/Visitor.dll
+/home/blgc/Masaüstü/DesignPattern/Visitor/obj/Debug/net5.0/Visitor.pdb
+/home/blgc/Masaüstü/DesignPattern/Visitor/obj/Debug/net5.0/Visitor.genruntimeconfig.cache

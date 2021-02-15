@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/DesignPattern/Strategy/obj/Debug/net5.0/Strategy.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/DesignPattern/Strategy/obj/Debug/net5.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/DesignPattern/Strategy/obj/Debug/net5.0/Strategy.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Strategy/obj/Debug/net5.0/Strategy.AssemblyInfo.cs
+/home/blgc/Masaüstü/DesignPattern/Strategy/obj/Debug/net5.0/Strategy.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/DesignPattern/Strategy/bin/Debug/net5.0/Strategy
+/home/blgc/Masaüstü/DesignPattern/Strategy/bin/Debug/net5.0/Strategy.deps.json
+/home/blgc/Masaüstü/DesignPattern/Strategy/bin/Debug/net5.0/Strategy.runtimeconfig.json
+/home/blgc/Masaüstü/DesignPattern/Strategy/bin/Debug/net5.0/Strategy.runtimeconfig.dev.json
+/home/blgc/Masaüstü/DesignPattern/Strategy/bin/Debug/net5.0/Strategy.dll
+/home/blgc/Masaüstü/DesignPattern/Strategy/bin/Debug/net5.0/ref/Strategy.dll
+/home/blgc/Masaüstü/DesignPattern/Strategy/bin/Debug/net5.0/Strategy.pdb
+/home/blgc/Masaüstü/DesignPattern/Strategy/obj/Debug/net5.0/Strategy.dll
+/home/blgc/Masaüstü/DesignPattern/Strategy/obj/Debug/net5.0/ref/Strategy.dll
+/home/blgc/Masaüstü/DesignPattern/Strategy/obj/Debug/net5.0/Strategy.pdb
+/home/blgc/Masaüstü/DesignPattern/Strategy/obj/Debug/net5.0/Strategy.genruntimeconfig.cache
