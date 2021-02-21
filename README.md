@@ -1,2 +1,2 @@
-# DesignPattern
+# DesignPatterns
 Tasarım Örüntülerini içeren örnekler...
