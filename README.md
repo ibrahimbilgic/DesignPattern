@@ -1,2 +1,3 @@
 # DesignPattern
 Tasarım Örüntülerini içeren örnekler...
+Tamamlandı.
